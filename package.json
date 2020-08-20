@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-creando-innovacion",
+  "name": "cordova-plugin-integracion-aar",
   "version": "1.0.0",
   "description": "Cordova Plugin aar Integration",
   "author": "creando innovacion",
   "cordova": {
-    "id": "cordova-plugin-aar-integration",
+    "id": "cordova-plugin-integracion-aar",
     "platforms": "android"
   },
   "repository": {
