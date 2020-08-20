@@ -14,7 +14,7 @@
   </js-module>
 
   <platform name="android">
-    <source-file src="src/android/com/creandoinnovacion/IntegrationAar.java" target-dir="src/com/creandoinnovacion"/>
+    <source-file src="src/android/com/creandoinnovacion/IntegracionAar.java" target-dir="src/com/creandoinnovacion"/>
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="IntegracionAar">
         <param name="android-package" value="com.creandoinnovacion.IntegracionAar"/>
