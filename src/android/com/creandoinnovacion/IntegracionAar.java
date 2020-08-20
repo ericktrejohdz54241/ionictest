@@ -7,6 +7,8 @@ import org.json.JSONObject;
 
 import android.content.Context;
 
+import com.it.textcounter.ReadText;
+
 public class IntegracionAar extends CordovaPlugin {
 
     private int MY_PERMISSIONS_REQUEST = 0;
