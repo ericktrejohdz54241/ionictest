@@ -9,7 +9,7 @@
 	<engine name="cordova" version=">=3.0.0"/>
   </engines>
 
-  <js-module src="www/integrationAar.js" name="IntegracionAar">
+  <js-module src="www/integracionAar.js" name="IntegracionAar">
 	<clobbers target="window.plugins.integracionaar" />
   </js-module>
 
