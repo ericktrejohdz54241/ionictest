@@ -1,4 +1,4 @@
-var aarintegration = {
+var integracionaar = {
     check: function (successCallback, errorCallback) {
       cordova.exec(successCallback, errorCallback, 'IntegracionAar', 'check', []);
     }
