@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-creando-innovacion",
+  "version": "1.0.0",
+  "description": "Cordova Plugin aar Integration",
+  "author": "creando innovacion",
+  "cordova": {
+    "id": "cordova-plugin-aar-integration",
+    "platforms": "android"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericktrejohdz54241/ionictest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ericktrejohdz54241/ionictest/issues"
+  },
+  "homepage": "https://github.com/ericktrejohdz54241/ionictest#readme",
+  "keywords": [
+    "creandoinnovacion",
+    "arr",
+    "integration",
+    "ionic",
+    "library"
+  ],
+  "license": "MIT"
+}
